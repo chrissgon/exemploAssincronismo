@@ -9,10 +9,10 @@ Com o intuito de pegar uma lista de alunos, o **front** envia uma solicitação 
 Primeiro é necessário clonar o repositório
 
 ```bash
-git clone <URL_DO_REPOSITORIO>
+git clone https://github.com/chrissgon/exemploAssincronismo.git exemplo
 ```
 
-Depois entrar na pasta com `cd <NOME_DA_PASTA>`
+Depois entrar na pasta com `cd exemplo`
 
 Após isso instale as dependências
 
