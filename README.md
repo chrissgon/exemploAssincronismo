@@ -6,17 +6,18 @@ Com o intuito de pegar uma lista de alunos, o **front** envia uma solicitação 
 
 # Instalação
 
-Primeiro é necessário clonar o repositório
+Primeiro clone o repositório
 
 ```bash
 git clone https://github.com/chrissgon/exemploAssincronismo.git exemplo
 ```
 
-Depois entrar na pasta com `cd exemplo`
+Depois entre na pasta com `cd exemplo`
 
 Após isso instale as dependências
 
 ```bash
+# Instala as dependências, criando a pasta `node_modules`
 npm i
 ```
 
